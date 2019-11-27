@@ -1,0 +1,25 @@
+body
+{
+    background-image: url("g.gif");
+}
+.gameLogo
+{
+    margin: auto;
+    display: block;
+}
+button
+{
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+    margin: auto;
+    display: block;
+    font-size: 35px;
+    border-width: 5px;
+    border-color:goldenrod;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+
+
+}
